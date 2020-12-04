@@ -139,4 +139,13 @@ public struct EmojiProvider {
           + "its folds, Earth’s surface shown in green on blue ocean."),
     ]
   }
-}
+    
+    
+    static func random() -> EmojiDetails {
+        let allEmoji = EmojiProvider.all()
+        let randomIndex = Int.random(in: 0..<allEmoji.count)
+        return allEmoji[randomIndex]
+      }
+    }
+
+

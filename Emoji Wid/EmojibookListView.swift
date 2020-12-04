@@ -28,7 +28,7 @@ struct EmojibookListView: View {
       }
       .foregroundColor(.black)
       .listStyle(InsetGroupedListStyle())
-      .navigationBarTitle("Emojibook")
+      .navigationBarTitle("Emoji Pustak")
     }
   }
 }
