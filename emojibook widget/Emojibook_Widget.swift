@@ -2,7 +2,7 @@
 //  emojibook_widget.swift
 //  emojibook widget
 //
-//  Created by Red Phoenix on 04/12/20.
+//  Created by Mayur on 04/12/20.
 //
 
 import WidgetKit
