@@ -11,7 +11,7 @@ import SwiftUI
 struct Emoji_WidApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            EmojibookListView()
         }
     }
 }
