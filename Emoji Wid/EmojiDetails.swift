@@ -2,7 +2,7 @@
 //  EmojiDetails.swift
 //  Emoji Wid
 //
-//  Created by Red Phoenix on 04/12/20.
+//  Created by Mayur on 04/12/20.
 //
 
 import Foundation
